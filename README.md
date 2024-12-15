@@ -1,2 +1,2 @@
 # Prueba Tecnica Modulo1
-Primera evaluación técnica del Bootcamp JAVA en HACK A BOSS
+Primera evaluación técnica del Bootcamp de JAVA en HACK A BOSS
